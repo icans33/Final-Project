@@ -1,0 +1,5 @@
+Income 100000 12-05-2024 Gaji
+Income 1000000 12-05-2024 Gaji
+Expense 1205000 12-04-2024 Gas
+Expense 200000 12-05-2024 Food
+Income 100000 12-05-2024 Gaji

@@ -1,4 +1,0 @@
-Income 12000 12-05-2024 Gaji
-Income 1000000 12-04-2024 Gaji
-Income 12 12-04-2024 Gaji
-Income 10000 12-04-2024 Gaji
